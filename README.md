@@ -8,12 +8,12 @@ A collection of codes and notebooks implementing various types of neural network
     * Notebook: [01 Softmax Regression.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/01%20Softmax%20Regression.ipynb)
 
 2. Stochastic, mini-Batch, Batch Gradient Descent, and Dataloaders
-    * Code: [02 SGD, BGD, mini-BGD.py](https://github.com/rrmina/Neural-Network-Experiments/blob/master/02%20SGD,%20BGD,%20mini-BGD)
+    * Code: [02 SGD, BGD, mini-BGD.py](https://github.com/rrmina/Neural-Network-Experiments/blob/master/02%20SGD,%20BGD,%20mini-BGD.py)
     * Notebook: [02 SGD, BGD, mini-BGD.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/02%20SGD%2C%20BGD%2C%20mini-BGD.ipynb)
 
-3. Optimizers (Adam, Adagrad, RMSprop)
+3. Optimizers (Moment, RMSProp, Adam)
     * Code: 
-    * Notebook: 
+    * Notebook: [02 Optimizers.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/03%20Optimizers.ipynb)
 
 4. Regularization (L1, L2, Dropout, Batchnorm)
     * Code: 
