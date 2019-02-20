@@ -13,7 +13,7 @@ A collection of codes and notebooks implementing various types of neural network
 
 3. Optimizers (Moment, RMSProp, Adam)
     * Code: 
-    * Notebook: [02 Optimizers.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/03%20Optimizers.ipynb)
+    * Notebook: [03 Optimizers.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/03%20Optimizers.ipynb)
 
 4. Regularization (L1, L2, Dropout, Batchnorm)
     * Code: 
