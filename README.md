@@ -52,3 +52,8 @@ A collection of codes and notebooks implementing various types of neural network
 3. Character-level RNN
     * Code:
     * Notebook:
+
+## Classical Machine Learning
+1. Principal Component Analysis (PCA)
+    * Code:
+    * Notebook: [PCA.ipynb](https://github.com/rrmina/Neural-Network-Experiments/blob/master/PCA.ipynb)
