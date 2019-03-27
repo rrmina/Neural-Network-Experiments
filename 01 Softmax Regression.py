@@ -104,7 +104,7 @@ def visualization(test_x, test_y, w1, b1, w2, b2):
     for index in np.arange(20):
         ax = fig.add_subplot(2, 20/2, index+1, xticks=[], yticks=[])
         ax.imshow(test_x[index], cmap='gray')
-        ax.set_title("{} ({})".format(str(y[index][0]), str(y[index][0])), 
+        ax.set_title("{} ({})".format(str(pred[index]), str(y[index][0])), 
                      color=("green" if pred[index] == y[index] else "red"))
 
 def main():
